@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd3d1334-cf89-48cb-9888-182bcbdcd492" name="Default Changelist" comment="" />
+    <list default="true" id="bd3d1334-cf89-48cb-9888-182bcbdcd492" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionCats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionCats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeCats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeCats.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V3sKQYu8RztZmQhCVORsiCzKRk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +37,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="4 laba Artem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,9 +78,60 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1086" y="436" key="#com.intellij.ide.util.MemberChooser" timestamp="1576580699361">
+    <state x="873" y="378" key="#Inspections" timestamp="1576674251958">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1086" y="436" key="#com.intellij.ide.util.MemberChooser/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576580699361" />
+    <state x="873" y="378" key="#Inspections/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576674251958" />
+    <state x="1086" y="436" key="#com.intellij.ide.util.MemberChooser" timestamp="1576676967031">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1086" y="436" key="#com.intellij.ide.util.MemberChooser/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576676967031" />
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom" timestamp="1576677017734">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576677017734" />
+    <state width="2517" height="413" key="GridCell.Tab.0.center" timestamp="1576677017734">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.center/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576677017734" />
+    <state width="2517" height="413" key="GridCell.Tab.0.left" timestamp="1576677017734">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.left/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576677017734" />
+    <state width="2517" height="413" key="GridCell.Tab.0.right" timestamp="1576677017734">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.right/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576677017734" />
+    <state width="2517" height="508" key="GridCell.Tab.1.bottom" timestamp="1576676899711">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.bottom/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576676899711" />
+    <state width="2517" height="508" key="GridCell.Tab.1.center" timestamp="1576676899711">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.center/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576676899711" />
+    <state width="2517" height="508" key="GridCell.Tab.1.left" timestamp="1576676899711">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.left/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576676899711" />
+    <state width="2517" height="508" key="GridCell.Tab.1.right" timestamp="1576676899711">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.right/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576676899711" />
+    <state x="977" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1576668584399">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="977" y="544" key="com.intellij.ide.util.TipDialog/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1576668584399" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -2,6 +2,8 @@ public enum TypeCats {
 
     A,
     B,
-    C
+    C,
+    D,
+    E
 
 }
